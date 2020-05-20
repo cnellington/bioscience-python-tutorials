@@ -1,35 +1,32 @@
 # BIOSCIENCE PYTHON TUTORIALS
-### For UW Bioengineering 2019-2020 honors
 
-ERIC AND MAX:
-```
-git clone <repo_url>
-git checkout -b <branch_name>
-```
-code, add and commit your changes...
-```
-git add -p
-git commit -m "<your message>"
-```
-Continue adding and commiting to log and save your changes. When you're done with small changes:
-```
-git push origin <branch_name>
-```
-When you're done with your module:
-* go to github --> branches --> create pull request.
-* wait for everyone to review and approve
-* merge
+## Setup
 
-Now your changes are on master!
+These tutorials require a select few tools to demonstrate how easy it
+is to begin working on advanced computing applications:
+- Python 3.6+
+- Jupyter Notebook OR Jupyter Labs
 
-Clean up your local repo and pull new changes:
-```
-git checkout master
-git pull
-git branch -d <branch_name>
-```
+If you need to install these tools, follow these tutorials:
+- Python: 
+- Jupyter Notebook:
 
-Then to start your next module:
+Once finished, run the following commands to check for correct installation:
 ```
-git checkout -b <next_branch_name>
+python -V
 ```
+You should see a python version 3.6 or above
+```
+jupyter notebook -V
+```
+You should see any reasonable version number (this was made with version 6.0.3).
+
+Once you have the tools, clone this repository using
+````
+git clone https://github.com/cnellington/bioscience-python-tutorials.git
+````
+Each tutorial takes around 60 minutes to complete. Start with whichever one interests you the most!
+
+
+#### Created by Caleb Ellington, Max Weil, and Eric Yang
+#### University of Washington Departent of  Bioengineering 
