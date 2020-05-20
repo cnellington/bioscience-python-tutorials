@@ -14,8 +14,9 @@ could instantly know more about a new protein's lineage and function.
 Here we'll be making a command-line interface, or CLI, to run an
 align two protein sequences and score the alignment's trustworthiness.
 
-Following the YouTube tutorial is recommended, but if you prefer you
-can reference the solution code as you write your own tool. 
+Following the YouTube tutorial will give you a better understanding
+of the code, but if you prefer you can simply reference the solution 
+code as you write your own tool. 
 
 YouTube link
 
