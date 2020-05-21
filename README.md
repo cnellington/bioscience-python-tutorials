@@ -8,8 +8,8 @@ is to begin working on advanced computing applications:
 - Jupyter Notebook OR Jupyter Labs
 
 If you need to install these tools, follow these tutorials:
-- Python: 
-- Jupyter Notebook:
+- Python: https://www.codecademy.com/articles/install-python3
+- Jupyter Notebook: https://jupyter.org/install
 
 Once finished, run the following commands to check for correct installation:
 ```
