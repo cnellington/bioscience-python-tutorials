@@ -18,7 +18,7 @@ Following the YouTube tutorial will give you a better understanding
 of the code, but if you prefer you can simply reference the solution 
 code as you write your own tool. 
 
-YouTube Tutorial: https://www.youtube.com/watch?v=VHZZ1qrReqk&t=4s
+YouTube Tutorial: https://youtu.be/SO8J31k6QD4
 
 ### Engineering constraings and criteria:
 - Align two arbitrary-length protein sequences from .fasta file.
