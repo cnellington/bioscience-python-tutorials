@@ -17,9 +17,14 @@ neuroscience research, as it allows for testing of
 experimental paradigms without requiring living organisms
 as models.
 
-Begin with ```brian2_intro``` to gain some familiarity with the Brian2 library.
-Then, try running through ```neuron_sim```, the solutions for this code can be found in ```neuron_sim_sol```.
+Begin with ```brian2_intro``` to gain some familiarity 
+with the Brian2 library. Then, try running through 
+```neuron_sim```, the solutions for this code can be 
+found in ```neuron_sim_sol```.
 
+For more applications of Brian2, you can look download 
+examples from:
+https://brian2.readthedocs.io/en/stable/examples/index.html
 
 
 #### Created by Caleb Ellington, Max Weil, and Eric Yang
