@@ -17,7 +17,7 @@ neuroscience research, as it allows for testing of
 experimental paradigms without requiring living organisms
 as models.
 
-Begin with ```brain2_intro``` to gain some familiarity with the Brian2 library.
+Begin with ```brian2_intro``` to gain some familiarity with the Brian2 library.
 Then, try running through ```neuron_sim```, the solutions for this code can be found in ```neuron_sim_sol```.
 
 
