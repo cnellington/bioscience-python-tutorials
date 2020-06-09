@@ -28,4 +28,4 @@ https://brian2.readthedocs.io/en/stable/examples/index.html
 
 
 #### Created by Caleb Ellington, Max Weil, and Eric Yang
-#### University of Washington Departent of  Bioengineering 
+#### University of Washington Department of  Bioengineering 
