@@ -29,4 +29,4 @@ Each tutorial takes around 60 minutes to complete. Start with whichever one inte
 
 
 #### Created by Caleb Ellington, Max Weil, and Eric Yang
-#### University of Washington Departent of  Bioengineering 
+#### University of Washington Department of  Bioengineering 
