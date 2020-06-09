@@ -43,4 +43,4 @@ Begin writing your application in `working_code/`
 
 
 #### Created by Caleb Ellington, Max Weil, and Eric Yang
-#### University of Washington Departent of  Bioengineering 
+#### University of Washington Department of  Bioengineering 
